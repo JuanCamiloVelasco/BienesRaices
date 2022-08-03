@@ -1,0 +1,19 @@
+{
+    "name": "juancamilo/bienesraices",
+    "description": "creando un proyecto con POO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "juancamilo",
+            "email": "jcamil-2010@hotmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    }
+}
